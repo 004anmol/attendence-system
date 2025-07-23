@@ -23,13 +23,10 @@ A web-based application that automates the attendance management process using *
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-| Form UI | Progress Bar |
-|--------|---------------|
-| ![Form UI](./screenshots/form_ui.png) | ![Progress Bar](./screenshots/progress.png) |
+![App Interface](./Screenshot%202025-07-23%20140756.png)
 
-*(Add your own screenshots to the `screenshots` folder)*
 
 ---
 
