@@ -34,4 +34,4 @@ A web-based application that automates the attendance management process using *
 
 1. **Clone or Copy the Repo**  
    ```bash
-   git clone https://github.com/yourusername/attendance-management.git
+   git clone https:/004anmol/github.com//attendance-system.git
